@@ -1,0 +1,12 @@
+# Generated binaries
+/ulam_spiral
+
+# Dependencies
+/lib/
+/.shards/
+
+# Generated images (keep examples tracked separately)
+*.png
+
+# OS files
+.DS_Store

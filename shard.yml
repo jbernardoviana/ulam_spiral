@@ -1,0 +1,18 @@
+name: ulam_spiral
+version: 0.1.0
+
+authors:
+  - João Viana
+
+description: |
+  Ulam spiral image generator. Primes arranged in a spiral
+  reveal surprising diagonal patterns.
+
+crystal: ">= 1.19.0"
+
+license: MIT
+
+dependencies:
+  stumpy_png:
+    github: stumpycr/stumpy_png
+    version: "~> 5.0"
